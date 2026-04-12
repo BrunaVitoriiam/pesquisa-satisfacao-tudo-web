@@ -4,7 +4,7 @@ Projeto em Python que coleta a opinião de clientes e gera um relatório automá
 
 
 
- Objetivo
+## Objetivo
 Avaliar o atendimento com base nas 50 avaliações realizada por cada pessoa, sendo as os graus de satisfação:
 
 - 1 = Excelente  
@@ -12,7 +12,7 @@ Avaliar o atendimento com base nas 50 avaliações realizada por cada pessoa, se
 - 3 = Ruim 
 
 
-💻 Tecnologias usadas
+##💻 Tecnologias usadas
 - Python online  
 - Estrutura de repetição (for)  
 - Estrutura condicional (if / elif)  
@@ -20,7 +20,7 @@ Avaliar o atendimento com base nas 50 avaliações realizada por cada pessoa, se
 - IA
 
 
- Como funciona o programa
+## Como funciona o programa
 
 O sistema percorre a lista com os 50 entrevistados utilizando um laço de repetição (for).
 
@@ -39,7 +39,7 @@ depois dessa verificação o programa:
 
 
 
- Resultado gerado
+## Resultado 
 O programa exibe:
 
 - Quantidade de respostas "Excelente"

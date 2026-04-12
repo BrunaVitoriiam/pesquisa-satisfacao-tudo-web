@@ -1,4 +1,4 @@
- Pesquisa de Satisfação - Tudo Web
+## Pesquisa de Satisfação - Tudo Web
 
 Projeto em Python que coleta a opinião de clientes e gera um relatório automático de satisfação com as porcentagem de cada avaliação.
 

@@ -5,11 +5,13 @@ Projeto em Python que coleta a opinião de clientes e gera um relatório automá
 
 
 ## Objetivo
-Avaliar o atendimento com base nas 50 avaliações realizada por cada pessoa, sendo as os graus de satisfação:
+Avaliar o atendimento com base nas 50 avaliações realizada por cada pessoa, sendo as os graus de satisfação
 
 - 1 = Excelente  
 - 2 = Bom  
-- 3 = Ruim 
+- 3 = Ruim
+
+## possibilidade de adicionar mais entrevistados a lista preenchendo se deseja adiconar mais ou não, se sim preencher as informações necessarias como: nome, idade e avaliação. se negativo apenas informar que não.
 
 
 ##💻 Tecnologias usadas

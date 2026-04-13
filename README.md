@@ -11,10 +11,10 @@ Avaliar o atendimento com base nas 50 avaliações realizada por cada pessoa, se
 - 2 = Bom  
 - 3 = Ruim
 
-## possibilidade de adicionar mais entrevistados a lista preenchendo se deseja adiconar mais ou não, se sim preencher as informações necessarias como: nome, idade e avaliação. se negativo apenas informar que não.
+## Possibilidade de adicionar mais entrevistados a lista preenchendo se deseja adiconar mais ou não, se sim preencher as informações necessarias como: nome, idade e avaliação. se negativo apenas informar que não.
 
 
-##💻 Tecnologias usadas
+##💻 Tecnologias usadas:
 - Python online  
 - Estrutura de repetição (for)  
 - Estrutura condicional (if / elif)  
@@ -22,7 +22,7 @@ Avaliar o atendimento com base nas 50 avaliações realizada por cada pessoa, se
 - IA
 
 
-## Como funciona o programa
+## Funcionamento do programa
 
 O sistema percorre a lista com os 50 entrevistados utilizando um laço de repetição (for).
 

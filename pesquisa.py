@@ -61,6 +61,30 @@ entrevistados = [
     {"nome": "Elaine", "idade": 27, "opiniao": 2}
 ]
 
+#   adicionar novos entrevistados
+while True:
+    print("\nDeseja adicionar um novo entrevistado?")
+    opcao = input("Digite (sim/nao): ").lower()
+
+    if opcao != "sim":
+        break
+
+    nome = input("Nome: ")
+    idade = int(input("Idade: "))
+
+    print("\nOpinião:")
+    print("1 - Excelente")
+    print("2 - Bom")
+    print("3 - Ruim")
+
+    opiniao = int(input("Digite a opinião: "))
+
+    entrevistados.append({
+        "nome": nome,
+        "idade": idade,
+        "opiniao": opiniao
+    })
+
 for i, pessoa in enumerate(entrevistados):
     opiniao = pessoa["opiniao"]
     
